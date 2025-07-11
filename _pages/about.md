@@ -55,6 +55,16 @@ I am a first-year Ph.D. Student at [Hohai University](https://www.hhu.edu.cn/).
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/UEMM-Air.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks](https://arxiv.org/pdf/2406.06230)
+
+ **Liang Yao**, Fan Liu, Shengxiang Xu, Chuanyi Zhang, Shimin Di, Xing Ma, Jianyu Jiang, Zequan Wang, Jun Zhou.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/SIFDAL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
