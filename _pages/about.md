@@ -17,42 +17,66 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a first-year Ph.D. Student at [Hohai University](https://www.hhu.edu.cn/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 🔍Research Topics
 
+- **Remote Sensing Vision-Language Model**
+- **UAV-based Environment Perception**
+- **AI Agent**
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: "RemoteSAM: Towards Segment Anything for Earth Observation" is accepted by ACM MM 2025 (<b><font color="red">Oral</font></b>)! &nbsp;🎉🎉 
+- *2025.06*: I earned my master's degree from HHU and was awarded the title of Outstanding Master's Graduate (<b><font color="red">7/234=3%</font></b>). &nbsp;🎓🎓
+- *2025.05*: We introduce a referring expression segmentation-based unified paradigm and propose RemoteSAM, [paper](https://arxiv.org/abs/2505.18022) and [code](https://github.com/1e12Leon/RemoteSAM) is released.
+- *2025.04*: "Boost UAV-based Object Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning" is accepted by IEEE TGRS. &nbsp;🎉🎉 
+- *2024.12*: "RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification" is accepted by IEEE ICASSP. &nbsp;🎉🎉 
+- *2024.10*: "Domain-invariant Progressive Knowledge Distillation for UAV-based Object Detection" is accepted by IEEE GRSL. &nbsp;🎉🎉 
+
+
+# 📖 Educations
+- *2025.06 - Now*, Ph.D. at [AIMGroup](https://multimodality.group/), College of Computer Science and Software Engineering, Hohai University, supervised by [Prof. Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm) and [Prof. Chuanyi Zhang](https://ai.hhu.edu.cn/2023/0809/c17670a264073/page.htm).
+- *2022.09 - 2025.06*, M.S. at [AIMGroup](https://multimodality.group/), College of Computer Science and Software Engineering, Hohai University, supervised by [Prof. Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm).
+- *2018.09 - 202.06*, B.S. at College of Computer Science and Information, Hohai University
+# 💻 Internships
+- *2025.06 - Now*, Research Intern at [COWARobot](https://www.cowarobot.com/), mentored by Dr. Pai Peng.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 oral</div><img src='images/RemoteSAM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[RemoteSAM: Towards Segment Anything for Earth Observation](https://arxiv.org/pdf/2505.18022)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+ **Liang Yao**, Fan Liu, Delong Chen, Chuanyi Zhang, Yijun Wang, Ziyun Chen, Wei Xu, Shimin Di, Yuhui Zheng.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/SIFDAL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[Boost UAV-Based Object Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning](https://ieeexplore.ieee.org/abstract/document/10976665)
+
+Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, etc.
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2024, Second Prize of Science and Technology Award (Scientific Innovation), Jiangsu Institute of Information Technology Application | 江苏省信息技术应用学会科学技术奖（科技创新）二等奖
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2024, Outstanding Poster Award, Jiangsu Graduate Academic Innovation Forum on Intelligent Control and Marine Information Processing | 江苏省研究生智能控制与海洋信息处理前沿学术创新论坛优秀海报奖
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- 2024, First Prize (Intelligent Transportation Track), National Final of Global Campus AI Algorithm Elite Competition | 全球校园人工智能算法精英大赛智能交通赛道全国总决赛一等奖
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 2024, First Prize (Other Tracks), National Final of Global Campus AI Algorithm Elite Competition | 全球校园人工智能算法精英大赛其他赛道全国总决赛一等奖
+
+- 2023, Outstanding Volunteer, Jiangsu Association for Artificial Intelligence | 江苏省人工智能学会优秀志愿者
+
+- 2023, Second Prize, Final of "Prospective Cup" Meta Intelligent Data Challenge | "远见杯"元智能数据挑战赛决赛二等奖
+
+- 2022, Third Prize, National Final of "China Software Cup" Software Design Competition | "中国软件杯"大学生软件设计大赛总决赛三等奖
+
+- 2021, Meritorious Winner, The Mathematical Contest in Modeling (MCM) | 美国大学生数学建模大赛 Meritorious Winner
+
+- 2021, Winning Solution Award, "Fight COVID-19 with Technology" Big Data Challenge (CCF Big Data & Computing Intelligence Contest) | 中国计算机学会大数据与计算智能大赛"科技战疫"大数据公益挑战赛优胜方案奖
+
+- 2021, Second Prize (Jiangsu Division), "Challenge Cup" National Undergraduate Academic Technology Works Competition | "挑战杯"全国大学生课外学术科技作品竞赛江苏省二等奖
+
+
