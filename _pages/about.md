@@ -37,7 +37,7 @@ I am a first-year Ph.D. Student at [Hohai University](https://www.hhu.edu.cn/).
 # 📖 Educations
 - *2025.06 - Now*, Ph.D. at [AIMGroup](https://multimodality.group/), College of Computer Science and Software Engineering, Hohai University, supervised by [Prof. Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm) and [Prof. Chuanyi Zhang](https://ai.hhu.edu.cn/2023/0809/c17670a264073/page.htm).
 - *2022.09 - 2025.06*, M.S. at [AIMGroup](https://multimodality.group/), College of Computer Science and Software Engineering, Hohai University, supervised by [Prof. Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm).
-- *2018.09 - 202.06*, B.S. at College of Computer Science and Information, Hohai University
+- *2018.09 - 2022.06*, B.S. at College of Computer Science and Information, Hohai University
 
 
 # 💻 Internships
