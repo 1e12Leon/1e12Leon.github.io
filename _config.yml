@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Liang Yao (姚亮)"
   avatar           : "images/leon.jpg"
-  bio              : "Ph.D. Student, Hohai University, Nanjing, China"
+  bio              : "Hohai University"
   location         : "Nanjing, China"
-  employer         : "Hohai University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=sN6tNBcAAAAJ"
   email            : "yaoliang@hhu.edu.cn"
