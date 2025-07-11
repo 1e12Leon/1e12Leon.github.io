@@ -66,24 +66,24 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 
 # 🎖 Honors and Awards
 
-- 2024, Second Prize of Science and Technology Award (Scientific Innovation), Jiangsu Institute of Information Technology Application | 江苏省信息技术应用学会科学技术奖（科技创新）二等奖
+- 2024, Second Prize of Science and Technology Award (Scientific Innovation), Jiangsu Institute of Information Technology Application \| 江苏省信息技术应用学会科学技术奖（科技创新）二等奖
 
-- 2024, Outstanding Poster Award, Jiangsu Graduate Academic Innovation Forum on Intelligent Control and Marine Information Processing | 江苏省研究生智能控制与海洋信息处理前沿学术创新论坛优秀海报奖
+- 2024, Outstanding Poster Award, Jiangsu Graduate Academic Innovation Forum on Intelligent Control and Marine Information Processing \| 江苏省研究生智能控制与海洋信息处理前沿学术创新论坛优秀海报奖
 
-- 2024, First Prize (Intelligent Transportation Track), National Final of Global Campus AI Algorithm Elite Competition | 全球校园人工智能算法精英大赛智能交通赛道全国总决赛一等奖
+- 2024, First Prize (Intelligent Transportation Track), National Final of Global Campus AI Algorithm Elite Competition \| 全球校园人工智能算法精英大赛智能交通赛道全国总决赛一等奖
 
-- 2024, First Prize (Other Tracks), National Final of Global Campus AI Algorithm Elite Competition | 全球校园人工智能算法精英大赛其他赛道全国总决赛一等奖
+- 2024, First Prize (Other Tracks), National Final of Global Campus AI Algorithm Elite Competition \| 全球校园人工智能算法精英大赛其他赛道全国总决赛一等奖
 
-- 2023, Outstanding Volunteer, Jiangsu Association for Artificial Intelligence | 江苏省人工智能学会优秀志愿者
+- 2023, Outstanding Volunteer, Jiangsu Association for Artificial Intelligence \| 江苏省人工智能学会优秀志愿者
 
-- 2023, Second Prize, Final of "Prospective Cup" Meta Intelligent Data Challenge | "远见杯"元智能数据挑战赛决赛二等奖
+- 2023, Second Prize, Final of "Prospective Cup" Meta Intelligent Data Challenge \| "远见杯"元智能数据挑战赛决赛二等奖
 
-- 2022, Third Prize, National Final of "China Software Cup" Software Design Competition | "中国软件杯"大学生软件设计大赛总决赛三等奖
+- 2022, Third Prize, National Final of "China Software Cup" Software Design Competition \| "中国软件杯"大学生软件设计大赛总决赛三等奖
 
-- 2021, Meritorious Winner, The Mathematical Contest in Modeling (MCM) | 美国大学生数学建模大赛 Meritorious Winner
+- 2021, Meritorious Winner, The Mathematical Contest in Modeling (MCM) \| 美国大学生数学建模大赛 Meritorious Winner
 
-- 2021, Winning Solution Award, "Fight COVID-19 with Technology" Big Data Challenge (CCF Big Data & Computing Intelligence Contest) | 中国计算机学会大数据与计算智能大赛"科技战疫"大数据公益挑战赛优胜方案奖
+- 2021, Winning Solution Award, "Fight COVID-19 with Technology" Big Data Challenge (CCF Big Data & Computing Intelligence Contest) \| 中国计算机学会大数据与计算智能大赛"科技战疫"大数据公益挑战赛优胜方案奖
 
-- 2021, Second Prize (Jiangsu Division), "Challenge Cup" National Undergraduate Academic Technology Works Competition | "挑战杯"全国大学生课外学术科技作品竞赛江苏省二等奖
+- 2021, Second Prize (Jiangsu Division), "Challenge Cup" National Undergraduate Academic Technology Works Competition \| "挑战杯"全国大学生课外学术科技作品竞赛江苏省二等奖
 
 
