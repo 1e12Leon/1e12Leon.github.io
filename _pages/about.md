@@ -38,6 +38,8 @@ I am a first-year Ph.D. Student at [Hohai University](https://www.hhu.edu.cn/).
 - *2025.06 - Now*, Ph.D. at [AIMGroup](https://multimodality.group/), College of Computer Science and Software Engineering, Hohai University, supervised by [Prof. Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm) and [Prof. Chuanyi Zhang](https://ai.hhu.edu.cn/2023/0809/c17670a264073/page.htm).
 - *2022.09 - 2025.06*, M.S. at [AIMGroup](https://multimodality.group/), College of Computer Science and Software Engineering, Hohai University, supervised by [Prof. Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm).
 - *2018.09 - 202.06*, B.S. at College of Computer Science and Information, Hohai University
+
+
 # 💻 Internships
 - *2025.06 - Now*, Research Intern at [COWARobot](https://www.cowarobot.com/), mentored by Dr. Pai Peng.
 
@@ -50,15 +52,20 @@ I am a first-year Ph.D. Student at [Hohai University](https://www.hhu.edu.cn/).
 
  **Liang Yao**, Fan Liu, Delong Chen, Chuanyi Zhang, Yijun Wang, Ziyun Chen, Wei Xu, Shimin Di, Yuhui Zheng.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/SIFDAL.jpg' alt="sym" width="100%"></div></div>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/SIFDAL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Boost UAV-Based Object Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning](https://ieeexplore.ieee.org/abstract/document/10976665)
 
-Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, etc.
-
+Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Zhou.
+</div>
+</div>
 
 # 🎖 Honors and Awards
+
 - 2024, Second Prize of Science and Technology Award (Scientific Innovation), Jiangsu Institute of Information Technology Application | 江苏省信息技术应用学会科学技术奖（科技创新）二等奖
 
 - 2024, Outstanding Poster Award, Jiangsu Graduate Academic Innovation Forum on Intelligent Control and Marine Information Processing | 江苏省研究生智能控制与海洋信息处理前沿学术创新论坛优秀海报奖
