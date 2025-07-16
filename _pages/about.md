@@ -79,6 +79,13 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 </div>
 </div>
 
+
+# 👥 Co-authors
+
+I assist Prof. [Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm) in supervising some undergraduate and graduate students:
+
+[Shengxiang Xu](xushengxianggg.github.io), [Wei Xu](https://multimodality.group/author/%E8%AE%B8%E7%8E%AE/), [Rui Min](), [Rong Zhang](), [Ting Wu](https://multimodality.group/author/%E5%90%B4%E5%A9%B7/), [Yijun Wang](https://multimodality.group/author/%E7%8E%8B%E7%BF%8C%E9%AA%8F/), [Xiang Gu](), [Junjie Zhou]().
+
 # 🎖 Honors and Awards
 
 - 2024, Second Prize of Science and Technology Award (Scientific Innovation), Jiangsu Institute of Information Technology Application \| 江苏省信息技术应用学会科学技术奖（科技创新）二等奖
@@ -102,3 +109,8 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 - 2021, Second Prize (Jiangsu Division), "Challenge Cup" National Undergraduate Academic Technology Works Competition \| "挑战杯"全国大学生课外学术科技作品竞赛江苏省二等奖
 
 
+# 🔗 Academic Service
+
+- Conference on Computer Vision and Pattern Recognition (**CVPR**)
+- International Conference on Computer Vision (**ICCV**)
+- ACM International Conference on Multimedia (**ACMMM**)
