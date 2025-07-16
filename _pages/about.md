@@ -43,7 +43,7 @@ I am a first-year Ph.D. Student at [Hohai University](https://www.hhu.edu.cn/).
 # 💻 Internships
 - *2025.06 - Now*, Research Intern at [COWARobot](https://www.cowarobot.com/), mentored by Dr. Pai Peng.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 oral</div><img src='images/RemoteSAM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -51,6 +51,11 @@ I am a first-year Ph.D. Student at [Hohai University](https://www.hhu.edu.cn/).
 [RemoteSAM: Towards Segment Anything for Earth Observation](https://arxiv.org/pdf/2505.18022)
 
  **Liang Yao**, Fan Liu, Delong Chen, Chuanyi Zhang, Yijun Wang, Ziyun Chen, Wei Xu, Shimin Di, Yuhui Zheng.
+
+ [**Code**](https://github.com/1e12Leon/RemoteSAM) ![](https://img.shields.io/github/stars/1e12Leon/RemoteSAM?style=social) | [**Dataset**](https://huggingface.co/datasets/1e12Leon/RemoteSAM_270K)
+  - We propose a referring expression segmentation (RES) based unification paradigm and a robust yet visual foundation model, RemoteSAM.
+
+**Media coverage:**<span style="font-size: 12px;"> [【极市平台】ACM MM2025 Oral | RemoteSAM:轻量统一的遥感视觉模型](https://mp.weixin.qq.com/s/caFm75zf5YEf8uwrWfsQTg)|[【我爱计算机视觉】RemoteSAM:轻量统一的遥感视觉模型](https://mp.weixin.qq.com/s/wNA42lEI-CEim_Tw1yCRnQ)|[【遥感与深度学习】最新论文 | RemoteSAM, 专用于遥感的SAM, 模型数据均开源!](https://mp.weixin.qq.com/s/2xUJTyx-o8z1LE0-klXMxQ)|</span>
 
 </div>
 </div>
