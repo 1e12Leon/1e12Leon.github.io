@@ -27,7 +27,7 @@ I am a first-year Ph.D. Student at [Hohai University](https://www.hhu.edu.cn/).
 
 # 🔥 News
 - *2025.07*: "RemoteSAM: Towards Segment Anything for Earth Observation" is accepted by ACM MM 2025 (<b><font color="red">Oral</font></b>)! &nbsp;🎉🎉 
-- *2025.06*: I earned my master's degree from HHU and was awarded the title of Outstanding Master's Graduate (<b><font color="red">7/234=3%</font></b>). &nbsp;🎓🎓
+- *2025.06*: I earned my master's degree from HHU and was awarded the title of Outstanding Master's Graduate Student (<b><font color="red">7/234=3%</font></b>). &nbsp;🎓🎓
 - *2025.05*: We introduce a referring expression segmentation-based unified paradigm and propose RemoteSAM, [paper](https://arxiv.org/abs/2505.18022) and [code](https://github.com/1e12Leon/RemoteSAM) is released.
 - *2025.04*: "Boost UAV-based Object Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning" is accepted by IEEE TGRS. &nbsp;🎉🎉 
 - *2024.12*: "RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification" is accepted by IEEE ICASSP. &nbsp;🎉🎉 
@@ -67,6 +67,8 @@ I am a first-year Ph.D. Student at [Hohai University](https://www.hhu.edu.cn/).
 
  **Liang Yao**, Fan Liu, Shengxiang Xu, Chuanyi Zhang, Shimin Di, Xing Ma, Jianyu Jiang, Zequan Wang, Jun Zhou.
 
+[**Dataset**](https://github.com/1e12Leon/UEMM-Air) ![](https://img.shields.io/github/stars/1e12Leon/UEMM-Air?style=social)
+
 </div>
 </div>
 
@@ -74,11 +76,15 @@ I am a first-year Ph.D. Student at [Hohai University](https://www.hhu.edu.cn/).
 <div class='paper-box-text' markdown="1">
 
 [Boost UAV-Based Object Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning](https://ieeexplore.ieee.org/abstract/document/10976665)
+[**Code**](https://github.com/1e12Leon/SIFDAL)
 
 Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Zhou.
 </div>
 </div>
 
+# 🛠 Projects 
+
+- Postgraduate Research and Practice Innovation Program of Jiangsu Province under Grant \| 江苏省研究生科研与实践创新项目 
 
 # 👥 Co-authors
 
@@ -88,15 +94,25 @@ I assist Prof. [Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.ht
 
 # 🎖 Honors and Awards
 
+- 2025, Outstanding Master's Graduate Student, Hohai University \| 河海大学优秀毕业研究生 
+
+- 2024, Outstanding Graduate Student, Hohai University  \| 河海大学优秀研究生
+
+- 2022-2024, First Prize of Academic Scholarship,  Hohai University \| 河海大学研究生一等奖学金
+
 - 2024, Second Prize of Science and Technology Award (Scientific Innovation), Jiangsu Institute of Information Technology Application \| 江苏省信息技术应用学会科学技术奖（科技创新）二等奖
 
 - 2024, Outstanding Poster Award, Jiangsu Graduate Academic Innovation Forum on Intelligent Control and Marine Information Processing \| 江苏省研究生智能控制与海洋信息处理前沿学术创新论坛优秀海报奖
 
+- 2023, Outstanding Volunteer, Jiangsu Association for Artificial Intelligence \| 江苏省人工智能学会优秀志愿者
+
+- 2018-2022, Outstanding Undergraduate Student Scholarship, Hohai University  \| 河海大学优秀学生奖学金
+
+# 🏆 Competitions
+
 - 2024, First Prize (Intelligent Transportation Track), National Final of Global Campus AI Algorithm Elite Competition \| 全球校园人工智能算法精英大赛智能交通赛道全国总决赛一等奖
 
 - 2024, First Prize (Other Tracks), National Final of Global Campus AI Algorithm Elite Competition \| 全球校园人工智能算法精英大赛其他赛道全国总决赛一等奖
-
-- 2023, Outstanding Volunteer, Jiangsu Association for Artificial Intelligence \| 江苏省人工智能学会优秀志愿者
 
 - 2023, Second Prize, Final of "Prospective Cup" Meta Intelligent Data Challenge \| "远见杯"元智能数据挑战赛决赛二等奖
 
@@ -110,7 +126,7 @@ I assist Prof. [Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.ht
 
 
 # 🔗 Academic Service
-
+Reviewer: 
 - Conference on Computer Vision and Pattern Recognition (**CVPR**)
 - International Conference on Computer Vision (**ICCV**)
 - ACM International Conference on Multimedia (**ACMMM**)
