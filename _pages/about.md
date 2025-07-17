@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. Student at [Hohai University](https://www.hhu.edu.cn/).
+Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省), and he loves fitness, traveling, and FPS games.  He is a first-year Ph.D. Student at [Hohai University (HHU)](https://www.hhu.edu.cn/), advised by [Prof. Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm) and [Prof. Chuanyi Zhang](https://ai.hhu.edu.cn/2023/0809/c17670a264073/page.htm). He is also a research intern at [COWARobot](https://www.cowarobot.com/). Before this, he received his B.Eng. and M.Eng. degree in Computer Science in 2022 and 2025 from Hohai University, where he was advised by [Prof. Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm).
 
 # 🔍Research Topics
 
 - **Remote Sensing Vision-Language Model**
 - **UAV-based Environment Perception**
-- **AI Agent**
+- **AI Agent Workflow**
 
 # 🔥 News
 - *2025.07*: "RemoteSAM: Towards Segment Anything for Earth Observation" is accepted by ACM MM 2025 (<b><font color="red">Oral</font></b>)! &nbsp;🎉🎉 
@@ -76,9 +76,11 @@ I am a first-year Ph.D. Student at [Hohai University](https://www.hhu.edu.cn/).
 <div class='paper-box-text' markdown="1">
 
 [Boost UAV-Based Object Detection via Scale-Invariant Feature Disentanglement and Adversarial Learning](https://ieeexplore.ieee.org/abstract/document/10976665)
-[**Code**](https://github.com/1e12Leon/SIFDAL)
 
 Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Zhou.
+
+[**Code**](https://github.com/1e12Leon/SIFDAL)
+
 </div>
 </div>
 
