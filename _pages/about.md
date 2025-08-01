@@ -26,6 +26,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - **AI Agent Workflow**
 
 # 🔥 News
+- *2025.08*: "UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks" is accepted by ACM MM 2025 Dataset Track! &nbsp;🎉🎉 
 - *2025.07*: We introduce a geospatial reasoning workflow [RemoteReasoner](http://arxiv.org/abs/2507.19280). Model will be public available at next version.
 - *2025.07*: "RemoteSAM: Towards Segment Anything for Earth Observation" is accepted by ACM MM 2025 (<b><font color="red">Oral</font></b>)! &nbsp;🎉🎉 
 - *2025.06*: I earned my master's degree from HHU and was awarded the title of Outstanding Master's Graduate Student (<b><font color="red">7/234=3%</font></b>). &nbsp;🎓🎓
@@ -61,7 +62,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/UEMM-Air.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 Dataset</div><img src='images/UEMM-Air.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks](https://arxiv.org/pdf/2406.06230)
