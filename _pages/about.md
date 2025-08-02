@@ -47,6 +47,8 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 
 # 📝 Selected Publications 
 
+## Remote Sensing Vision-Language Model
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 oral</div><img src='images/RemoteSAM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,10 +59,23 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
  [**Code**](https://github.com/1e12Leon/RemoteSAM) ![](https://img.shields.io/github/stars/1e12Leon/RemoteSAM?style=social) | [**Dataset**](https://huggingface.co/datasets/1e12Leon/RemoteSAM_270K)
   - We propose a referring expression segmentation (RES) based unification paradigm and a robust yet visual foundation model, RemoteSAM.
 
-**Media coverage:**<span style="font-size: 12px;"> [【极市平台】ACM MM2025 Oral | RemoteSAM:轻量统一的遥感视觉模型](https://mp.weixin.qq.com/s/caFm75zf5YEf8uwrWfsQTg)|[【我爱计算机视觉】RemoteSAM:轻量统一的遥感视觉模型](https://mp.weixin.qq.com/s/wNA42lEI-CEim_Tw1yCRnQ)|[【遥感与深度学习】最新论文 | RemoteSAM, 专用于遥感的SAM, 模型数据均开源!](https://mp.weixin.qq.com/s/2xUJTyx-o8z1LE0-klXMxQ)|</span>
+**Media coverage:**<span style="font-size: 12px;"> [【极市平台】ACM MM2025 Oral | RemoteSAM:轻量统一的遥感视觉模型](https://mp.weixin.qq.com/s/caFm75zf5YEf8uwrWfsQTg)|[【我爱计算机视觉】RemoteSAM:轻量统一的遥感视觉模型](https://mp.weixin.qq.com/s/wNA42lEI-CEim_Tw1yCRnQ)|[【遥感与深度学习】最新论文 | RemoteSAM, 专用于遥感的SAM, 模型数据均开源!](https://mp.weixin.qq.com/s/2xUJTyx-o8z1LE0-klXMxQ)| [【码科智能】ACM MM 2025 | 一个模型搞定计数、检测、指代分割等八大遥感视觉任务，无需任何任务专用头及微调](https://mp.weixin.qq.com/s/rg6JyAIENb0XTMfOu2KThw)</span>
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/RemoteReasoner.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow](https://arxiv.org/pdf/2507.19280)
+
+ **Liang Yao**, Fan Liu, Hongbo Lu, Chuanyi Zhang, Rui Min, Shengxiang Xu, Shimin Di, Jun Zhou.
+
+</div>
+</div>
+
+## UAV-based Multi-modal Perception
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 Dataset</div><img src='images/UEMM-Air.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,6 +97,18 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Zhou.
 
 [**Code**](https://github.com/1e12Leon/SIFDAL)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE GRSL 2024</div><img src='images/PDIKD.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Domain-Invariant Progressive Knowledge Distillation for UAV-Based Object Detection](https://ieeexplore.ieee.org/abstract/document/10745610)
+
+**Liang Yao**, Fan Liu, Chuanyi Zhang, Zhiquan Ou Ting Wu.
+
+[**Code**](https://github.com/1e12Leon/PDIKD)
 
 </div>
 </div>
