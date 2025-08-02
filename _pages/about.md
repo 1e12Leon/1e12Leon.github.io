@@ -58,9 +58,12 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 
  **Liang Yao**\*, Fan Liu\*, Delong Chen\*, Chuanyi Zhang, Yijun Wang, Ziyun Chen, Wei Xu, Shimin Di, Yuhui Zheng.
 
- [**Code**](https://github.com/1e12Leon/RemoteSAM) ![](https://img.shields.io/github/stars/1e12Leon/RemoteSAM?style=social) | [**Dataset**](https://huggingface.co/datasets/1e12Leon/RemoteSAM_270K) 
- 
- [极市平台](https://mp.weixin.qq.com/s/caFm75zf5YEf8uwrWfsQTg) | [我爱计算机视觉](https://mp.weixin.qq.com/s/wNA42lEI-CEim_Tw1yCRnQ) | [遥感与深度学习](https://mp.weixin.qq.com/s/2xUJTyx-o8z1LE0-klXMxQ) | [码科智能](https://mp.weixin.qq.com/s/rg6JyAIENb0XTMfOu2KThw)
+ [[**Code**]](https://github.com/1e12Leon/RemoteSAM) ![](https://img.shields.io/github/stars/1e12Leon/RemoteSAM?style=social)
+ [[**Dataset**]](https://huggingface.co/datasets/1e12Leon/RemoteSAM_270K)
+ [[极市平台]](https://mp.weixin.qq.com/s/caFm75zf5YEf8uwrWfsQTg)
+[[我爱计算机视觉]](https://mp.weixin.qq.com/s/wNA42lEI-CEim_Tw1yCRnQ)
+[[遥感与深度学习]](https://mp.weixin.qq.com/s/2xUJTyx-o8z1LE0-klXMxQ)
+[[码科智能]](https://mp.weixin.qq.com/s/rg6JyAIENb0XTMfOu2KThw)
 
   - We propose a referring expression segmentation (RES) based unification paradigm and a robust yet visual foundation model, RemoteSAM.
 
