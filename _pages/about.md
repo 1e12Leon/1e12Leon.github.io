@@ -22,7 +22,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 # 🔍Research Topics
 
 - **Remote Sensing Vision-Language Model**
-- **UAV-based Environment Perception**
+- **UAV-based Multi-modal Perception**
 - **AI Agent Workflow**
 
 # 🔥 News
@@ -91,7 +91,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 
  **Liang Yao**, Fan Liu, Shengxiang Xu, Chuanyi Zhang, Shimin Di, Xing Ma, Jianyu Jiang, Zequan Wang, Jun Zhou.
 
-[**Dataset**](https://github.com/1e12Leon/UEMM-Air) ![](https://img.shields.io/github/stars/1e12Leon/UEMM-Air?style=social)
+[[**Dataset**]](https://github.com/1e12Leon/UEMM-Air) ![](https://img.shields.io/github/stars/1e12Leon/UEMM-Air?style=social)
 
 </div>
 </div>
@@ -103,7 +103,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 
 Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Zhou.
 
-[**Code**](https://github.com/1e12Leon/SIFDAL)
+[[**Code**]](https://github.com/1e12Leon/SIFDAL)
 
 </div>
 </div>
@@ -115,7 +115,7 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 
 **Liang Yao**, Fan Liu, Chuanyi Zhang, Zhiquan Ou Ting Wu.
 
-[**Code**](https://github.com/1e12Leon/PDIKD)
+[[**Code**]](https://github.com/1e12Leon/PDIKD)
 
 </div>
 </div>
