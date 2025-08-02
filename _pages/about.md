@@ -47,7 +47,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 
 # 📝 Selected Publications 
 
-* Equal Contribution
+\* Equal Contribution
 
 ## Remote Sensing Vision-Language Model
 
