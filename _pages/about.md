@@ -122,9 +122,11 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 
 ## 📃 Others 
 
-- [RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification](https://ieeexplore.ieee.org/abstract/document/10890085). In IEEE ICASSP2025. Guangwenjie Zou\*, **Liang Yao**\*, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, Shengxiang Xu, Jun Zhou.
+- [RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification](https://ieeexplore.ieee.org/abstract/document/10890085). *In IEEE ICASSP2025*. Guangwenjie Zou\*, **Liang Yao**\*, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, Shengxiang Xu, Jun Zhou.
 
-- [Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions](https://arxiv.org/pdf/2505.22627). In arXiv25. Yijun Shen, Delong Chen, Fan Liu, Xingyu Wang,
+- [AerialFace: A Light Weight Framework for Unmanned Aerial Vehicle Face Recognition](https://ieeexplore.ieee.org/abstract/document/10582027/). (Highlight) *In IEEE FG2024*. Zhiquan Ou\*, **Liang Yao**\*, Ting Wu, Fan Liu.
+
+- [Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions](https://arxiv.org/pdf/2505.22627). *In arXiv25*. Yijun Shen, Delong Chen, Fan Liu, Xingyu Wang,
 Chuanyi Zhang, **Liang Yao**, Yuhui Zheng.
 
 # 🛠 Projects 
@@ -139,6 +141,8 @@ I assist Prof. [Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.ht
 
 
 # 🎖 Honors and Awards
+
+- 2025, Second Prize in the Outstanding Master's Thesis Award of the Jiangsu Province Instrumentation and Measurement Society \| 江苏省仪器仪表学会优秀硕士毕业论文二等奖 
 
 - 2025, Outstanding Master's Graduate Student, Hohai University \| 河海大学优秀毕业研究生 
 
