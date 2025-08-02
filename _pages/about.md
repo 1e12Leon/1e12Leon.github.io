@@ -56,9 +56,11 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 
 [RemoteSAM: Towards Segment Anything for Earth Observation](https://arxiv.org/pdf/2505.18022)
 
- **Liang Yao***, Fan Liu*, Delong Chen*, Chuanyi Zhang, Yijun Wang, Ziyun Chen, Wei Xu, Shimin Di, Yuhui Zheng.
+ **Liang Yao**\*, Fan Liu\*, Delong Chen\*, Chuanyi Zhang, Yijun Wang, Ziyun Chen, Wei Xu, Shimin Di, Yuhui Zheng.
 
- [**Code**](https://github.com/1e12Leon/RemoteSAM) ![](https://img.shields.io/github/stars/1e12Leon/RemoteSAM?style=social) | [**Dataset**](https://huggingface.co/datasets/1e12Leon/RemoteSAM_270K) | [极市平台](https://mp.weixin.qq.com/s/caFm75zf5YEf8uwrWfsQTg) ｜ [我爱计算机视觉](https://mp.weixin.qq.com/s/wNA42lEI-CEim_Tw1yCRnQ) | [遥感与深度学习](https://mp.weixin.qq.com/s/2xUJTyx-o8z1LE0-klXMxQ) | [码科智能](https://mp.weixin.qq.com/s/rg6JyAIENb0XTMfOu2KThw)
+ [**Code**](https://github.com/1e12Leon/RemoteSAM) ![](https://img.shields.io/github/stars/1e12Leon/RemoteSAM?style=social) | [**Dataset**](https://huggingface.co/datasets/1e12Leon/RemoteSAM_270K) 
+ 
+ [极市平台](https://mp.weixin.qq.com/s/caFm75zf5YEf8uwrWfsQTg) ｜ [我爱计算机视觉](https://mp.weixin.qq.com/s/wNA42lEI-CEim_Tw1yCRnQ) | [遥感与深度学习](https://mp.weixin.qq.com/s/2xUJTyx-o8z1LE0-klXMxQ) | [码科智能](https://mp.weixin.qq.com/s/rg6JyAIENb0XTMfOu2KThw)
 
   - We propose a referring expression segmentation (RES) based unification paradigm and a robust yet visual foundation model, RemoteSAM.
 
@@ -103,7 +105,7 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE GRSL 2024</div><img src='images/PDIKD.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2024</div><img src='images/PDIKD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Domain-Invariant Progressive Knowledge Distillation for UAV-Based Object Detection](https://ieeexplore.ieee.org/abstract/document/10745610)
@@ -117,7 +119,7 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 
 ## 📃 Others 
 
-- [RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification](https://ieeexplore.ieee.org/abstract/document/10890085). In ICASSP2025. Guangwenjie Zou*,**Liang Yao***, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, Shengxiang Xu, Jun Zhou.
+- [RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification](https://ieeexplore.ieee.org/abstract/document/10890085). In IEEE ICASSP2025. Guangwenjie Zou\*, **Liang Yao**\*, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, Shengxiang Xu, Jun Zhou.
 
 - [Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions](https://arxiv.org/pdf/2505.22627). In arXiv25. Yijun Shen, Delong Chen, Fan Liu, Xingyu Wang,
 Chuanyi Zhang, **Liang Yao**, Yuhui Zheng.
