@@ -26,6 +26,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - **AI Agent Workflow**
 
 # 🔥 News
+- *2025.08*: I earned Second Prize in the Outstanding Master's Thesis Award of the Jiangsu Province Instrumentation and Measurement Society. 
 - *2025.08*: "UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks" is accepted by ACM MM 2025 Dataset Track! &nbsp;🎉🎉 
 - *2025.07*: We introduce a geospatial reasoning workflow [RemoteReasoner](http://arxiv.org/abs/2507.19280). Model will be public available at next version.
 - *2025.07*: "RemoteSAM: Towards Segment Anything for Earth Observation" is accepted by ACM MM 2025 (<b><font color="red">Oral</font></b>)! &nbsp;🎉🎉 
@@ -177,6 +178,7 @@ I assist Prof. [Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.ht
 
 # 🔗 Academic Service
 Reviewer: 
-- Conference on Computer Vision and Pattern Recognition (**CVPR**)
-- International Conference on Computer Vision (**ICCV**)
-- ACM International Conference on Multimedia (**ACMMM**)
+- AAAI Conference on Artificial Intelligence (**AAA26**)
+- Conference on Computer Vision and Pattern Recognition (**CVPR25**)
+- International Conference on Computer Vision (**ICCV25**)
+- ACM International Conference on Multimedia (**ACMMM25**)
