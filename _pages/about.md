@@ -78,7 +78,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 
 [RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow](https://arxiv.org/pdf/2507.19280)
 
- **Liang Yao**, Fan Liu, Hongbo Lu, Chuanyi Zhang, Rui Min, Shengxiang Xu, Shimin Di, Jun Zhou.
+ **Liang Yao**, Fan Liu, Hongbo Lu, Chuanyi Zhang, Rui Min, Shengxiang Xu, Shimin Di, Pai Peng.
 
 </div>
 </div>
