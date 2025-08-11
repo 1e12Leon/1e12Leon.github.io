@@ -80,6 +80,8 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 
  **Liang Yao**, Fan Liu, Hongbo Lu, Chuanyi Zhang, Rui Min, Shengxiang Xu, Shimin Di, Pai Peng.
 
+  - We propose the first Reinforcement Learning (RL) based Remote Sensing reasoning workflow.
+
 </div>
 </div>
 
@@ -93,6 +95,8 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
  **Liang Yao**, Fan Liu, Shengxiang Xu, Chuanyi Zhang, Shimin Di, Xing Ma, Jianyu Jiang, Zequan Wang, Jun Zhou.
 
 [[**Dataset**]](https://github.com/1e12Leon/UEMM-Air) ![](https://img.shields.io/github/stars/1e12Leon/UEMM-Air?style=social)
+
+  - We build a new synthetic UAV-based environmental perception dataset, UEMM-Air. It exceeds existing works by a significant margin in terms of dataset size ($120k$), number of modalities (6), and variety of tasks (4).
 
 </div>
 </div>
