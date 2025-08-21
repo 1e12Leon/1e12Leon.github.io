@@ -131,7 +131,7 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 
 - [AerialFace: A Light Weight Framework for Unmanned Aerial Vehicle Face Recognition](https://ieeexplore.ieee.org/abstract/document/10582027/). (Highlight) *In IEEE FG2024*. Zhiquan Ou\*, **Liang Yao**\*, Ting Wu, Fan Liu.
 
-- [Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions](https://arxiv.org/pdf/2505.22627). *In arXiv25*. Yijun Shen, Delong Chen, Fan Liu, Xingyu Wang,
+- [Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions](https://arxiv.org/pdf/2505.22627). *In EMNLP2025*. Yijun Shen, Delong Chen, Fan Liu, Xingyu Wang,
 Chuanyi Zhang, **Liang Yao**, Yuhui Zheng.
 
 # 🛠 Projects 
