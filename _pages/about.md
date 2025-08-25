@@ -80,6 +80,12 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 
  **Liang Yao**, Fan Liu, Hongbo Lu, Chuanyi Zhang, Rui Min, Shengxiang Xu, Shimin Di, Pai Peng.
 
+
+ [[**Code**]](https://github.com/1e12Leon/RemoteReasoner)
+[[Generative AI]](https://mp.weixin.qq.com/s/g9GPABrKz1tmiUmJyYCBlg)
+[[遥感与深度学习]](https://mp.weixin.qq.com/s/r-9RNm3zIyrgAAnS-0aJaA)
+[[遥感Agent]](https://mp.weixin.qq.com/s/zoXf3vHJ5_j0Rbl6ee2K7w)
+
   - We propose the first Reinforcement Learning (RL) based Remote Sensing reasoning workflow.
 
 </div>
