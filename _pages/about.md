@@ -115,6 +115,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Zhou.
 
 [[**Code**]](https://github.com/1e12Leon/SIFDAL)
+[[CVPaper]](https://mp.weixin.qq.com/s/-BwASFULuvop5nayIS9CTA)
 
 </div>
 </div>
