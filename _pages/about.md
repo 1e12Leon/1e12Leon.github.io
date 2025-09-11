@@ -26,6 +26,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - **AI Agent Workflow**
 
 # 🔥 News
+- *2025.09*: A paper was accepted by Journal of Image and Graphics (中国图象图形学报)! &nbsp;🎉🎉 
 - *2025.08*: I earned Second Prize in the Outstanding Master's Thesis Award of the Jiangsu Province Instrumentation and Measurement Society. 
 - *2025.08*: "UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks" is accepted by ACM MM 2025 Dataset Track! &nbsp;🎉🎉 
 - *2025.07*: We introduce a geospatial reasoning workflow [RemoteReasoner](http://arxiv.org/abs/2507.19280). Model will be public available at next version.
