@@ -153,7 +153,7 @@ Chuanyi Zhang, **Liang Yao**, Yuhui Zheng.
 
 I assist Prof. [Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm) in supervising some undergraduate and graduate students:
 
-[Shengxiang Xu](xushengxianggg.github.io), [Wei Xu](https://multimodality.group/author/%E8%AE%B8%E7%8E%AE/), [Rui Min](), [Rong Zhang](), [Ting Wu](https://multimodality.group/author/%E5%90%B4%E5%A9%B7/), [Yijun Wang](https://multimodality.group/author/%E7%8E%8B%E7%BF%8C%E9%AA%8F/), [Xiang Gu](), [Junjie Zhou]().
+[Shengxiang Xu](https://xushengxianggg.github.io/), [Wei Xu](https://multimodality.group/author/%E8%AE%B8%E7%8E%AE/), [Rui Min](), [Rong Zhang](), [Ting Wu](https://multimodality.group/author/%E5%90%B4%E5%A9%B7/), [Yijun Wang](https://multimodality.group/author/%E7%8E%8B%E7%BF%8C%E9%AA%8F/), [Xiang Gu](), [Junjie Zhou]().
 
 
 # 🎖 Honors and Awards
