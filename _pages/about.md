@@ -95,7 +95,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 
 ## UAV-based Multi-modal Perception
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 Dataset</div><img src='images/UEMM-Air.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 oral</div><img src='images/UEMM-Air.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks](https://arxiv.org/pdf/2406.06230)
@@ -145,7 +145,7 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 - [Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions](https://arxiv.org/pdf/2505.22627). *In EMNLP2025*. Yijun Shen, Delong Chen, Fan Liu, Xingyu Wang,
 Chuanyi Zhang, **Liang Yao**, Yuhui Zheng.
 
-- [RobustFlow: Towards Robust Agentic Workflow Generation](https://arxiv.org/pdf/2509.21834). *In arXiv2025* Shengxiang Xu, Jiayi Zhang, Shimin Di, Yuyu Luo, **Liang Yao**, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang.
+- [RobustFlow: Towards Robust Agentic Workflow Generation](https://arxiv.org/pdf/2509.21834). *In arXiv2025*. Shengxiang Xu, Jiayi Zhang, Shimin Di, Yuyu Luo, **Liang Yao**, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang.
 
 # 🛠 Projects 
 
