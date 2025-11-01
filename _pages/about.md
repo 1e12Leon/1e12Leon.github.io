@@ -31,7 +31,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - *2025.09*: A paper was accepted by Journal of Image and Graphics (中国图象图形学报)! &nbsp;🎉🎉 
 - *2025.08*: Two papers were selected poster presentation by [CSIG2025](http://youth.csig.org.cn/CSIG2025/) at Qingdao, China. 
 - *2025.08*: I earned Second Prize in the Outstanding Master's Thesis Award of the Jiangsu Province Instrumentation and Measurement Society. 
-- *2025.08*: "UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks" is accepted by ACM MM 2025 Dataset Track! &nbsp;🎉🎉 
+- *2025.08*: "UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks" is accepted by ACM MM 2025 (<b><font color="red">Oral</font></b>)! &nbsp;🎉🎉 
 - *2025.07*: We introduce a geospatial reasoning workflow [RemoteReasoner](http://arxiv.org/abs/2507.19280). Model will be public available at next version.
 - *2025.07*: "RemoteSAM: Towards Segment Anything for Earth Observation" is accepted by ACM MM 2025 (<b><font color="red">Oral</font></b>)! &nbsp;🎉🎉 
 - *2025.06*: I earned my master's degree from HHU and was awarded the title of Outstanding Master's Graduate Student (<b><font color="red">7/234=3%</font></b>). &nbsp;🎓🎓
