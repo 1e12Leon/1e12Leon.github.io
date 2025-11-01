@@ -26,7 +26,8 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - **AI Agent Workflow**
 
 # 🔥 News
-- *2025.10*: A paper was accepted by AAAI demo track! &nbsp;🎉🎉 
+- *2025.10*: RemoteSAM was selected spotlight & poster presentation by [MLA2025](https://aiia.seu.edu.cn/mla25/main.htm) at Nanjing, China. 
+- *2025.10*: [AirNavigation](https://github.com/1e12Leon/AirNavigation) was accepted by AAAI demo track! &nbsp;🎉🎉 
 - *2025.09*: A paper was accepted by Journal of Image and Graphics (中国图象图形学报)! &nbsp;🎉🎉 
 - *2025.08*: Two papers were selected poster presentation by [CSIG2025](http://youth.csig.org.cn/CSIG2025/) at Qingdao, China. 
 - *2025.08*: I earned Second Prize in the Outstanding Master's Thesis Award of the Jiangsu Province Instrumentation and Measurement Society. 
@@ -138,6 +139,8 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 ## 📃 Others 
 
 - [RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification](https://ieeexplore.ieee.org/abstract/document/10890085). *In IEEE ICASSP2025*. Guangwenjie Zou\*, **Liang Yao**\*, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, Shengxiang Xu, Jun Zhou.
+
+- [AirNavigation: Let UAV Navigation Tell Its Own Story](). *In AAAI2026 Demo Track*. Jianyu Jiang, Zequan Wang, **Liang Yao**, Shengxiang Xu, Fan Liu.
 
 - [AerialFace: A Light Weight Framework for Unmanned Aerial Vehicle Face Recognition](https://ieeexplore.ieee.org/abstract/document/10582027/). (Highlight) *In IEEE FG2024*. Zhiquan Ou\*, **Liang Yao**\*, Ting Wu, Fan Liu.
 
