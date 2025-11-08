@@ -26,8 +26,9 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - **AI Agent Workflow**
 
 # 🔥 News
+- *2025.11*: [RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow](https://arxiv.org/pdf/2507.19280) was accepted by AAAI2026! &nbsp;🎉🎉 
 - *2025.10*: RemoteSAM was selected spotlight & poster presentation by [MLA2025](https://aiia.seu.edu.cn/mla25/main.htm) at Nanjing, China. 
-- *2025.10*: [AirNavigation](https://github.com/1e12Leon/AirNavigation) was accepted by AAAI demo track! &nbsp;🎉🎉 
+- *2025.10*: [AirNavigation](https://github.com/1e12Leon/AirNavigation) was accepted by AAAI2026 demo track! &nbsp;🎉🎉 
 - *2025.09*: A paper was accepted by Journal of Image and Graphics (中国图象图形学报)! &nbsp;🎉🎉 
 - *2025.08*: Two papers were selected poster presentation by [CSIG2025](http://youth.csig.org.cn/CSIG2025/) at Qingdao, China. 
 - *2025.08*: I earned Second Prize in the Outstanding Master's Thesis Award of the Jiangsu Province Instrumentation and Measurement Society. 
@@ -77,7 +78,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/RemoteReasoner.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/RemoteReasoner.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow](https://arxiv.org/pdf/2507.19280)
