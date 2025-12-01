@@ -26,6 +26,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - **AI Agent Workflow**
 
 # 🔥 News
+- *2025.11*: I earned **Special Prize (特等奖)** at the 2025 Jiangsu Provincial Postgraduate Academic Innovation Conference on "Intelligent Unmanned Systems"! &nbsp;🎉🎉 
 - *2025.11*: [RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow](https://arxiv.org/pdf/2507.19280) was accepted by AAAI2026! &nbsp;🎉🎉 
 - *2025.10*: RemoteSAM was selected spotlight & poster presentation by [MLA2025](https://aiia.seu.edu.cn/mla25/main.htm) at Nanjing, China. 
 - *2025.10*: [AirNavigation](https://github.com/1e12Leon/AirNavigation) was accepted by AAAI2026 demo track! &nbsp;🎉🎉 
