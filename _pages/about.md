@@ -166,6 +166,8 @@ I assist Prof. [Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.ht
 
 # 🎖 Honors and Awards
 
+- 2025, **Special Prize** at the 2025 Jiangsu Provincial Postgraduate Academic Innovation Conference on "Intelligent Unmanned Systems" \| 江苏省研究生智能无人系统创新学术论坛**特等奖**
+
 - 2025, Second Prize in the Outstanding Master's Thesis Award of the Jiangsu Province Instrumentation and Measurement Society \| 江苏省仪器仪表学会优秀硕士毕业论文二等奖 
 
 - 2025, Outstanding Master's Graduate Student, Hohai University \| 河海大学优秀毕业研究生 
