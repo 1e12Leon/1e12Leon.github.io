@@ -26,6 +26,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - **AI Agent Workflow**
 
 # 🔥 News
+- *2026.04*: We propose RemoteAgent, an agentic Earth Observation system.  [paper](https://arxiv.org/pdf/2604.07765) and [code](https://github.com/1e12Leon/RemoteAgent) is released.
 - *2026.02*: A paper was accepted by IEEE GRSL. 
 - *2026.01*: Happy new year! Our [RemoteHome](https://www.hhu.edu.cn/2026/0105/c23375a316159/page.htm) were reported on the website of Hohai University. 
 - *2025.11*: I earned **Special Prize (特等奖)** at the 2025 Jiangsu Provincial Postgraduate Academic Innovation Conference on "Intelligent Unmanned Systems"! &nbsp;🎉🎉 
