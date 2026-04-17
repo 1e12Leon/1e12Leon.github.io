@@ -100,6 +100,24 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv2026</div><img src='images/RemoteAgent.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs](https://arxiv.org/abs/2604.07765)
+
+ **Liang Yao**\*, Shengxiang Xu\*, Fan Liu, Chuanyi Zhang, Bishun Yao, Rui Min, Yongjun Li, Chaoqian Ouyang, Shimin Di, Min-Ling Zhang
+
+[[**Code**]](https://github.com/1e12Leon/RemoteAgent) ![](https://img.shields.io/github/stars/1e12Leon/RemoteAgent?style=social)
+[[遥感与深度学习]](https://mp.weixin.qq.com/s/0u47McXGmi7sBGGBFzZY_w)
+[[地球洞察]](https://mp.weixin.qq.com/s/i6GUc0KnfND_GJoj2LviHA)
+
+  - We propose RemoteAgent, an agentic system that uses RL-alignment to resolve intrinsic tasks while routing dense predictions via specialized tools.
+
+
+</div>
+</div>
+
 ## UAV-based Multi-modal Perception
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 oral</div><img src='images/UEMM-Air.jpg' alt="sym" width="100%"></div></div>
