@@ -101,7 +101,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv2026</div><img src='images/RemoteAgent.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv2026</div><img src='images/RemoteAgent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs](https://arxiv.org/abs/2604.07765)
