@@ -160,14 +160,15 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 </div>
 
 ## 📃 Others 
+-[RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation](https://arxiv.org/abs/2604.17243).  *In arXiv2026*. Rui Min\*, **Liang Yao**\*, Shiyu Miao\*, Shengxiang Xu, Yuxuan Liu, Chuanyi Zhang, Shimin Di, Fan Liu.
 
 - [RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification](https://ieeexplore.ieee.org/abstract/document/10890085). *In IEEE ICASSP2025*. Guangwenjie Zou\*, **Liang Yao**\*, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, Shengxiang Xu, Jun Zhou.
 
-- [AirNavigation: Let UAV Navigation Tell Its Own Story](). *In AAAI2026 Demo Track*. Jianyu Jiang, Zequan Wang, **Liang Yao**, Shengxiang Xu, Fan Liu.
+- [AirNavigation: Let UAV Navigation Tell Its Own Story](https://ojs.aaai.org/index.php/AAAI/article/view/42356). *In AAAI2026 Demo Track*. Jianyu Jiang, Zequan Wang, **Liang Yao**, Shengxiang Xu, Fan Liu.
 
 - [AerialFace: A Light Weight Framework for Unmanned Aerial Vehicle Face Recognition](https://ieeexplore.ieee.org/abstract/document/10582027/). (Highlight) *In IEEE FG2024*. Zhiquan Ou\*, **Liang Yao**\*, Ting Wu, Fan Liu.
 
-- [非空间配准的多模态目标检测决策融合策略](). *中国图象图形学报*. 张荣，**姚亮**，张奕欣，王翌骏，张传一，刘凡.
+- [非空间配准的多模态目标检测决策融合策略](https://www.cjig.cn/zh/article/doi/10.11834/jig.250326/). *中国图象图形学报*. 张荣🌹，**姚亮**，张奕欣，王翌骏，张传一，刘凡.
 
 - [Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions](https://arxiv.org/pdf/2505.22627). *In EMNLP2025*. Yijun Shen, Delong Chen, Fan Liu, Xingyu Wang,
 Chuanyi Zhang, **Liang Yao**, Yuhui Zheng.
@@ -224,8 +225,8 @@ I assist Prof. [Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.ht
 
 # 🔗 Academic Service
 Reviewer: 
-- International Conference on Machine Learning (**ICML26**)
-- AAAI Conference on Artificial Intelligence (**AAAI26**)
-- Conference on Computer Vision and Pattern Recognition (**CVPR25**)
-- International Conference on Computer Vision (**ICCV25**)
-- ACM International Conference on Multimedia (**ACMMM25**)
+- International Conference on Machine Learning (**ICML**)
+- AAAI Conference on Artificial Intelligence (**AAAI**)
+- Conference on Computer Vision and Pattern Recognition (**CVPR**)
+- International Conference on Computer Vision (**ICCV**)
+- ACM International Conference on Multimedia (**ACM MM**)
