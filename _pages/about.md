@@ -26,6 +26,8 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - **AI Agent Workflow**
 
 # 🔥 News
+- *2026.04*: RemoteReasoner was selected poster presentation by [VALSE2026](https://valser.org/2026/#/poster) at Wuhan, China.
+- *2026.04*: We propose [RemoteShield](https://arxiv.org/abs/2604.17243), a Robust Multimodal Large Language Models for Earth Observation.
 - *2026.04*: We propose RemoteAgent, an agentic Earth Observation system.  [paper](https://arxiv.org/pdf/2604.07765) and [code](https://github.com/1e12Leon/RemoteAgent) is released.
 - *2026.02*: A paper was accepted by IEEE GRSL. 
 - *2026.01*: Happy new year! Our [RemoteHome](https://www.hhu.edu.cn/2026/0105/c23375a316159/page.htm) were reported on the website of Hohai University. 
@@ -160,7 +162,7 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 </div>
 
 ## 📃 Others 
--[RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation](https://arxiv.org/abs/2604.17243).  *In arXiv2026*. Rui Min\*, **Liang Yao**\*, Shiyu Miao\*, Shengxiang Xu, Yuxuan Liu, Chuanyi Zhang, Shimin Di, Fan Liu.
+- [RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation](https://arxiv.org/abs/2604.17243).  *In arXiv2026*. Rui Min\*, **Liang Yao**\*, Shiyu Miao\*, Shengxiang Xu, Yuxuan Liu, Chuanyi Zhang, Shimin Di, Fan Liu.
 
 - [RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification](https://ieeexplore.ieee.org/abstract/document/10890085). *In IEEE ICASSP2025*. Guangwenjie Zou\*, **Liang Yao**\*, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, Shengxiang Xu, Jun Zhou.
 
