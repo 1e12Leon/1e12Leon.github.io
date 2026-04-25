@@ -162,7 +162,7 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 </div>
 
 ## 📃 Others 
-- [RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation](https://arxiv.org/abs/2604.17243).  *In arXiv2026*. Rui Min\*, **Liang Yao**\*, Shiyu Miao\*, Shengxiang Xu, Yuxuan Liu, Chuanyi Zhang, Shimin Di, Fan Liu.
+- [RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation](https://arxiv.org/abs/2604.17243).  *In arXiv2026*. Rui Min\*, **Liang Yao**\*, Shiyu Miao\*, Shengxiang Xu, Yuxuan Liu, Chuanyi Zhang, Shimin Di, Fan Liu. [[减论]](https://mp.weixin.qq.com/s/zXHmvwiDcNUEyBxEVHPQpg) [[地球洞察]](https://mp.weixin.qq.com/s/3Ug4Trw5UUAKcg2G1KPfjg)
 
 - [RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification](https://ieeexplore.ieee.org/abstract/document/10890085). *In IEEE ICASSP2025*. Guangwenjie Zou\*, **Liang Yao**\*, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, Shengxiang Xu, Jun Zhou.
 
@@ -172,8 +172,7 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 
 - [非空间配准的多模态目标检测决策融合策略](https://www.cjig.cn/zh/article/doi/10.11834/jig.250326/). *中国图象图形学报*. 张荣🌹，**姚亮**，张奕欣，王翌骏，张传一，刘凡.
 
-- [Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions](https://arxiv.org/pdf/2505.22627). *In EMNLP2025*. Yijun Shen, Delong Chen, Fan Liu, Xingyu Wang,
-Chuanyi Zhang, **Liang Yao**, Yuhui Zheng.
+- [Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions](https://arxiv.org/pdf/2505.22627). *In EMNLP2025*. Yijun Shen, Delong Chen, Fan Liu, Xingyu Wang, Chuanyi Zhang, **Liang Yao**, Yuhui Zheng.
 
 - [RobustFlow: Towards Robust Agentic Workflow Generation](https://arxiv.org/pdf/2509.21834). *In arXiv2025*. Shengxiang Xu, Jiayi Zhang, Shimin Di, Yuyu Luo, **Liang Yao**, Hanmo Liu, Jia Zhu, Fan Liu, Min-Ling Zhang.
 
