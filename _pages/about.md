@@ -228,7 +228,7 @@ I assist Prof. [Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.ht
 
 # 🔗 Academic Service
 Reviewer: 
-- International Conference on Machine Learning (**ICML**)
+- International Conference on Machine Learning (**ICML**) (Gold Reviewer)
 - AAAI Conference on Artificial Intelligence (**AAAI**)
 - Conference on Computer Vision and Pattern Recognition (**CVPR**)
 - International Conference on Computer Vision (**ICCV**)
