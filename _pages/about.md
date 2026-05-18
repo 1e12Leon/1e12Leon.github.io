@@ -26,6 +26,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - **AI Agent Workflow**
 
 # 🔥 News
+- *2026.05*: A paper was accepted by Pattern Recognition.
 - *2026.05*: We propose World-Action Interactive Models and instantiate this task in autonomous driving with [DAWN](https://arxiv.org/abs/2605.11550).
 - *2026.05*: We propose [RemoteZero](https://arxiv.org/pdf/2605.04451). This work is still ongoing, and the code will be released in the next version.
 - *2026.04*: RemoteReasoner was selected poster presentation by [VALSE2026](https://valser.org/2026/#/poster) at Wuhan, China.
