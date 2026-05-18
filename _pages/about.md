@@ -26,13 +26,13 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - **AI Agent Workflow**
 
 # 🔥 News
-- *2026.05*: A paper was accepted by Pattern Recognition.
+- *2026.05*: A paper was accepted by Pattern Recognition. &nbsp;🎉🎉
 - *2026.05*: We propose World-Action Interactive Models and instantiate this task in autonomous driving with [DAWN](https://arxiv.org/abs/2605.11550).
 - *2026.05*: We propose [RemoteZero](https://arxiv.org/pdf/2605.04451). This work is still ongoing, and the code will be released in the next version.
 - *2026.04*: RemoteReasoner was selected poster presentation by [VALSE2026](https://valser.org/2026/#/poster) at Wuhan, China.
 - *2026.04*: We propose [RemoteShield](https://arxiv.org/abs/2604.17243), a Robust Multimodal Large Language Models for Earth Observation.
 - *2026.04*: We propose RemoteAgent, an agentic Earth Observation system.  [paper](https://arxiv.org/pdf/2604.07765) and [code](https://github.com/1e12Leon/RemoteAgent) is released.
-- *2026.02*: A paper was accepted by IEEE GRSL. 
+- *2026.02*: A paper was accepted by IEEE GRSL. &nbsp;🎉🎉
 - *2026.01*: Happy new year! Our [RemoteHome](https://www.hhu.edu.cn/2026/0105/c23375a316159/page.htm) were reported on the website of Hohai University. 
 - *2025.11*: I earned **Special Prize (特等奖)** at the 2025 Jiangsu Provincial Postgraduate Academic Innovation Conference on "Intelligent Unmanned Systems"! &nbsp;🎉🎉 
 - *2025.11*: [RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow](https://arxiv.org/pdf/2507.19280) was accepted by AAAI2026! &nbsp;🎉🎉 
