@@ -23,7 +23,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 
 - **Remote Sensing Vision-Language Model**
 - **UAV-based Multi-modal Perception**
-- **AI Agent Workflow**
+- **World Model**
 
 # 🔥 News
 - *2026.05*: A paper was accepted by Pattern Recognition. &nbsp;🎉🎉
@@ -163,6 +163,24 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 
 </div>
 </div>
+
+## World Model
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/DAWN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The DAWN of World-Action Interactive Models](https://arxiv.org/abs/2605.11550)
+
+Hongbo Lu\*, **Liang Yao**\*, Chenghao He\*, Haoyu Wang\*, Xiang Gu, Xianfei Li, Wenlong Liao, Tao He, Pai Peng.
+
+[[**Project**]](https://cowarobot-ai.github.io/) [[**Code**]](https://github.com/COOWAI/DAWN)
+
+  - We propose World-Action Interactive Models (WAIMs) and instantiate DAWN, a latent generative model that recursively couples world prediction with action denoising for autonomous driving.
+
+</div>
+</div>
+
+
 
 ## 📃 Others 
 - [RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation](https://arxiv.org/abs/2604.17243).  *In arXiv2026*. Rui Min\*, **Liang Yao**\*, Shiyu Miao\*, Shengxiang Xu, Yuxuan Liu, Chuanyi Zhang, Shimin Di, Fan Liu. [[减论]](https://mp.weixin.qq.com/s/zXHmvwiDcNUEyBxEVHPQpg) [[地球洞察]](https://mp.weixin.qq.com/s/3Ug4Trw5UUAKcg2G1KPfjg)
