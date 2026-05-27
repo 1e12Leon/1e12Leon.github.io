@@ -193,7 +193,7 @@ Hongbo Lu\*, **Liang Yao**\*, Chenghao He\*, Haoyu Wang\*, Xiang Gu, Xianfei Li,
 
 - [非空间配准的多模态目标检测决策融合策略](https://www.cjig.cn/zh/article/doi/10.11834/jig.250326/). *中国图象图形学报*. 张荣🌹，**姚亮**，张奕欣，王翌骏，张传一，刘凡.
 
-- [Heterogeneous Knowledge Distillation Fostered Pre-training for Remote Sensing Object Detection](). *In Pattern Recognition*. Fan Liu, Xinlei Zhang, Chuanyi Zhang, **Liang Yao**, Fan Cheng, Xinyuan Li, Xiaohan Yu.
+- [Heterogeneous Knowledge Distillation Fostered Pre-training for Remote Sensing Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0031320326009957). *In Pattern Recognition*. Fan Liu, Xinlei Zhang, Chuanyi Zhang, **Liang Yao**, Fan Cheng, Xinyuan Li, Xiaohan Yu.
 
 - [Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions](https://arxiv.org/pdf/2505.22627). *In EMNLP2025*. Yijun Shen, Delong Chen, Fan Liu, Xingyu Wang, Chuanyi Zhang, **Liang Yao**, Yuhui Zheng.
 
@@ -249,8 +249,9 @@ I assist Prof. [Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.ht
 
 # 🔗 Academic Service
 Reviewer: 
-- International Conference on Machine Learning (**ICML**)(<b><font color="red">Gold Reviewer)</font></b>)
+- International Conference on Machine Learning (**ICML**)[(<b><font color="red">Gold Reviewer)</font></b>]
 - AAAI Conference on Artificial Intelligence (**AAAI**)
 - Conference on Computer Vision and Pattern Recognition (**CVPR**)
 - International Conference on Computer Vision (**ICCV**)
 - ACM International Conference on Multimedia (**ACM MM**)
+- Pattern Recognition (**PR**)
