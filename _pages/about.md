@@ -166,7 +166,7 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 
 ## World Model
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/DAWN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/DAWN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The DAWN of World-Action Interactive Models](https://arxiv.org/abs/2605.11550)
