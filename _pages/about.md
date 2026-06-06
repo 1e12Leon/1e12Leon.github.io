@@ -26,6 +26,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - **World Model**
 
 # 🔥 News
+- *2026.06*: Two papers were accepted by ChinaMM 2026. 
 - *2026.05*: A paper was accepted by Pattern Recognition. &nbsp;🎉🎉
 - *2026.05*: We propose World-Action Interactive Models and instantiate this task in autonomous driving with [DAWN](https://arxiv.org/abs/2605.11550).
 - *2026.05*: We propose [RemoteZero](https://arxiv.org/pdf/2605.04451). This work is still ongoing, and the code will be released in the next version.
