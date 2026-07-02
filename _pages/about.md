@@ -26,6 +26,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - **World Model**
 
 # 🔥 News
+- *2026.07*: I received funding from the Postgraduate Research & Practice Innovation Program of Jiangsu Province.
 - *2026.06*: Two papers were accepted by ChinaMM 2026. 
 - *2026.05*: A paper was accepted by Pattern Recognition. &nbsp;🎉🎉
 - *2026.05*: We propose World-Action Interactive Models and instantiate this task in autonomous driving with [DAWN](https://arxiv.org/abs/2605.11550).
@@ -202,7 +203,9 @@ Hongbo Lu\*, **Liang Yao**\*, Chenghao He\*, Haoyu Wang\*, Xiang Gu, Xianfei Li,
 
 # 🛠 Projects 
 
-- Postgraduate Research and Practice Innovation Program of Jiangsu Province under Grant \| 江苏省研究生科研与实践创新项目 
+- Postgraduate Research & Practice Innovation Program of Jiangsu Province 2026 \| 江苏省研究生科研与实践创新项目（博士生）
+
+- Postgraduate Research & Practice Innovation Program of Jiangsu Province 2024 \| 江苏省研究生科研与实践创新项目（硕士生）
 
 # 👥 Co-authors
 
