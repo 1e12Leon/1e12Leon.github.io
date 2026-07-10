@@ -250,6 +250,15 @@ I assist Prof. [Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.ht
 
 - 2021, Second Prize (Jiangsu Division), "Challenge Cup" National Undergraduate Academic Technology Works Competition \| "挑战杯"全国大学生课外学术科技作品竞赛江苏省二等奖
 
+# Invited Talks
+
+- *2026.01*: **AirNavigation: Let UAV Navigation Tell Its Own Story**, AAAI 2026, Singapore, Demo Presentation.
+- *2025.12*: **RemoteSAM: Towards Segment Anything for Earth Observation**, The 2025 Jiangsu Provincial Postgraduate Academic Innovation Conference on "Intelligent Unmanned Systems", Nanjing, China, Oral Presentation. 
+- *2025.11*: **RemoteSAM: Towards Segment Anything for Earth Observation**, MLA 2025, Nanjing, China, Top Conference Spotlight Talk. 
+- *2025.10*: **UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks**, ACM MM 2025, Dublin, Ireland, Oral Presentation.
+- *2025.10*: **RemoteSAM: Towards Segment Anything for Earth Observation**, ACM MM 2025, Dublin, Ireland, Oral Presentation.
+- *2024.05*: **AerialFace: A Light Weight Framework for Unmanned Aerial Vehicle Face Recognition**, IEEE FG 2024, Istanbul, Turkey, Spotlight Presentation.
+
 
 # 🔗 Academic Service
 Reviewer: 
