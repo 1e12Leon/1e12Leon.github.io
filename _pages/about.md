@@ -26,6 +26,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - **World Model**
 
 # 🔥 News
+- *2026.08*: "RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs" is accepted by IEEE TGRS. &nbsp;🎉🎉
 - *2026.07*: [RemoteHome](https://www.hhu.edu.cn/2026/0105/c23375a316159/page.htm) was selected poster presentation by [CSIG2026](http://youth.csig.org.cn/CSIG2026/views/qb.html) at Kunming, China.
 - *2026.07*: I received funding from the Postgraduate Research & Practice Innovation Program of Jiangsu Province.
 - *2026.06*: Two papers were accepted by ChinaMM 2026. 
@@ -109,7 +110,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv2026</div><img src='images/RemoteAgent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2026</div><img src='images/RemoteAgent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs](https://arxiv.org/abs/2604.07765)
