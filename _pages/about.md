@@ -177,12 +177,27 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 
 Hongbo Lu\*, **Liang Yao**\*, Chenghao He\*, Haoyu Wang\*, Xiang Gu, Xianfei Li, Wenlong Liao, Tao He, Pai Peng.
 
-[[**Project**]](https://cowarobot-ai.github.io/) [[**Code**]](https://github.com/COOWAI/DAWN)
+[[**Project**]](https://cowarobot-ai.github.io/DAWN) [[**Code**]](https://github.com/COOWAI/DAWN)
 
   - We propose World-Action Interactive Models (WAIMs) and instantiate DAWN, a latent generative model that recursively couples world prediction with action denoising for autonomous driving.
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/RISE.png' alt="RISE framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RISE: Adaptive Imagination for World Action Models](https://doi.org/10.13140/RG.2.2.14943.42405)
+
+Hongbo Lu\*, **Liang Yao**\*, Chenghao He\*, Hao Han\*, Fan Liu, Wenlong Liao, Tao He, Pai Peng.
+
+[[**Project**]](https://cowarobot-ai.github.io/RISE/) [[**Code**]](https://github.com/COOWAI/RISE) [[**Dataset**]](https://huggingface.co/datasets/COWARobot/CounterDrive)
+
+  - We propose RISE (Refining Imagination through SElective Rollout), an adaptive imagination framework that makes sequential ROLL/STOP decisions based on future planning gains, together with CounterDrive for safety-critical world-modeling research.
+
+</div>
+</div>
+
 
 
 
