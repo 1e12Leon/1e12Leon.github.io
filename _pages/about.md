@@ -127,6 +127,20 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/RemoteZero.jpg' alt="RemoteZero framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RemoteZero: Geospatial Reasoning with Zero Labels](https://arxiv.org/pdf/2605.04451)
+
+**Liang Yao**, Fan Liu, Shengxiang Xu, Chuanyi Zhang, Rui Min, Shimin Di, Yuhui Zheng.
+
+[[**Code**]](https://github.com/1e12Leon/RemoteZero)
+
+  - We propose RemoteZero, a label-free reinforcement learning framework that uses semantic verification as an intrinsic reward and enables iterative self-evolution for geospatial reasoning.
+
+</div>
+</div>
+
 ## UAV-based Multi-modal Perception
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 oral</div><img src='images/UEMM-Air.jpg' alt="sym" width="100%"></div></div>
@@ -187,7 +201,7 @@ Hongbo Lu\*, **Liang Yao**\*, Chenghao He\*, Haoyu Wang\*, Xiang Gu, Xianfei Li,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/RISE.png' alt="RISE framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RISE: Adaptive Imagination for World Action Models](https://doi.org/10.13140/RG.2.2.14943.42405)
+[RISE: Adaptive Imagination for World Action Models](https://arxiv.org/abs/2608.20430)
 
 Hongbo Lu\*, **Liang Yao**\*, Chenghao He\*, Hao Han\*, Fan Liu, Wenlong Liao, Tao He, Pai Peng.
 
