@@ -120,6 +120,8 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 [[**Code**]](https://github.com/1e12Leon/RemoteAgent) ![](https://img.shields.io/github/stars/1e12Leon/RemoteAgent?style=social)
 [[遥感与深度学习]](https://mp.weixin.qq.com/s/0u47McXGmi7sBGGBFzZY_w)
 [[地球洞察]](https://mp.weixin.qq.com/s/i6GUc0KnfND_GJoj2LviHA)
+[[空天视觉感知]](https://mp.weixin.qq.com/s/oMQhlVXV-UIYE1tN_fTvog)
+[[深度学习研究生]](https://mp.weixin.qq.com/s/8bmrGcbqLMZAVn9aL78suQ)
 
   - We propose RemoteAgent, an agentic system that uses RL-alignment to resolve intrinsic tasks while routing dense predictions via specialized tools.
 
@@ -127,7 +129,8 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/RemoteZero.jpg' alt="RemoteZero framework" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 26</div><img src='images/RemoteZero.jpg' alt="RemoteZero framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RemoteZero: Geospatial Reasoning with Zero Labels](https://arxiv.org/pdf/2605.04451)
@@ -140,6 +143,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 
 </div>
 </div>
+
 
 ## UAV-based Multi-modal Perception
 
