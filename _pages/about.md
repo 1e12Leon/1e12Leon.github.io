@@ -26,6 +26,8 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - **World Model**
 
 # 🔥 News
+- *2026.09*: I earned the Excellent Master’s Thesis Incentive Program of the China Graphics Society (中国图学学会优秀硕士学位论文激励计划). 🎉🎉
+- *2026.08*: We introduce [RISE](https://huggingface.co/papers/2608.20430), an adaptive imagination framework for World Action Models (WAMs) in autonomous driving.
 - *2026.08*: "RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs" is accepted by IEEE TGRS. &nbsp;🎉🎉
 - *2026.07*: [RemoteHome](https://www.hhu.edu.cn/2026/0105/c23375a316159/page.htm) was selected poster presentation by [CSIG2026](http://youth.csig.org.cn/CSIG2026/views/qb.html) at Kunming, China.
 - *2026.07*: I received funding from the Postgraduate Research & Practice Innovation Program of Jiangsu Province.
@@ -130,7 +132,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 26</div><img src='images/RemoteZero.jpg' alt="RemoteZero framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/RemoteZero.jpg' alt="RemoteZero framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RemoteZero: Geospatial Reasoning with Zero Labels](https://arxiv.org/pdf/2605.04451)
