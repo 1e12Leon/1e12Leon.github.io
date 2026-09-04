@@ -252,6 +252,7 @@ I assist Prof. [Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.ht
 
 
 # 🎖 Honors and Awards
+- 2026, China Graphics Society Outstanding Master's Thesis Incentive Program (First Place) \| 中国图学学会优秀硕士学位论文激励计划（位次第一）
 
 - 2025, **Special Prize** at the 2025 Jiangsu Provincial Postgraduate Academic Innovation Conference on "Intelligent Unmanned Systems" \| 江苏省研究生智能无人系统创新学术论坛**特等奖**
 
