@@ -27,7 +27,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 
 # 🔥 News
 <!-- - *2026.10*: I received the National Scholarship for Postgraduate Students. 🎉🎉 -->
-- *2026.09*: I was invited to attend the China Graphics Conference Incentive Program Forum and give an oral presentation(https://www.cgn.net.cn/cms/show.action?code=publish_ff8080819a7b4430019c264458bc057c&siteid=100000&newsid=b75d21a9f74d40e4bcf16754cf9b3c12&channelid=0000000383). 🎉🎉
+- *2026.09*: I was invited to attend the [China Graphics Conference Incentive Program Forum](https://www.cgn.net.cn/cms/show.action?code=publish_ff8080819a7b4430019c264458bc057c&siteid=100000&newsid=b75d21a9f74d40e4bcf16754cf9b3c12&channelid=0000000383) and give an oral presentation. 🎉🎉
 - *2026.09*: I earned the Excellent Master’s Thesis Incentive Program of the China Graphics Society (中国图学学会优秀硕士学位论文激励计划). 🎉🎉
 - *2026.08*: We introduce [RISE](https://huggingface.co/papers/2608.20430), an adaptive imagination framework for World Action Models (WAMs) in autonomous driving.
 - *2026.08*: "RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs" is accepted by IEEE TGRS. &nbsp;🎉🎉
