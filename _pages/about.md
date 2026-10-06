@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省), and he loves fitness, traveling, and FPS games.  He is a first-year Ph.D. Student at [Hohai University (HHU)](https://www.hhu.edu.cn/), advised by [Prof. Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm) and [Prof. Chuanyi Zhang](https://ai.hhu.edu.cn/2023/0809/c17670a264073/page.htm). He is also a research intern at [COWARobot](https://www.cowarobot.com/). Before this, he received his B.Eng. and M.Eng. degree in Computer Science in 2022 and 2025 from Hohai University, where he was advised by [Prof. Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm).
+Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省), and he loves fitness, traveling, and FPS games.  He is a second-year Ph.D. Student at [Hohai University (HHU)](https://www.hhu.edu.cn/), advised by [Prof. Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm). He is also a research intern at [COWARobot](https://www.cowarobot.com/). Before this, he received his B.Eng. and M.Eng. degree in Computer Science in 2022 and 2025 from Hohai University, where he was advised by [Prof. Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.htm).
 
 # 🔍Research Topics
 
@@ -26,6 +26,8 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - **World Model**
 
 # 🔥 News
+<!-- - *2026.10*: I received the National Scholarship for Postgraduate Students. 🎉🎉 -->
+- *2026.09*: I was invited to attend the China Graphics Conference Incentive Program Forum and give an oral presentation(https://www.cgn.net.cn/cms/show.action?code=publish_ff8080819a7b4430019c264458bc057c&siteid=100000&newsid=b75d21a9f74d40e4bcf16754cf9b3c12&channelid=0000000383). 🎉🎉
 - *2026.09*: I earned the Excellent Master’s Thesis Incentive Program of the China Graphics Society (中国图学学会优秀硕士学位论文激励计划). 🎉🎉
 - *2026.08*: We introduce [RISE](https://huggingface.co/papers/2608.20430), an adaptive imagination framework for World Action Models (WAMs) in autonomous driving.
 - *2026.08*: "RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs" is accepted by IEEE TGRS. &nbsp;🎉🎉
