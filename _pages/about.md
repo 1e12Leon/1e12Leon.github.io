@@ -307,6 +307,7 @@ I assist Prof. [Fan Liu](https://cies.hhu.edu.cn/2024/0521/c21613a280137/page.ht
 
 # Invited Talks
 
+- *2026.10*: **多模态遥感智能解译模型体系构建方法**, [第十一届中国图学大会激励计划论坛](https://www.cgn.net.cn/cms/show.action?code=publish_ff8080819a7b4430019c264458bc057c&siteid=100000&newsid=b75d21a9f74d40e4bcf16754cf9b3c12&channelid=0000000383), Xiamen, China, Invited Talk.
 - *2026.01*: **AirNavigation: Let UAV Navigation Tell Its Own Story**, AAAI 2026, Singapore, Demo Presentation.
 - *2025.12*: **RemoteSAM: Towards Segment Anything for Earth Observation**, The 2025 Jiangsu Provincial Postgraduate Academic Innovation Conference on "Intelligent Unmanned Systems", Nanjing, China, Oral Presentation. 
 - *2025.11*: **RemoteSAM: Towards Segment Anything for Earth Observation**, MLA 2025, Nanjing, China, Top Conference Spotlight Talk. 
