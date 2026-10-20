@@ -193,6 +193,20 @@ Fan Liu, **Liang Yao**, Chuanyi Zhang, Ting Wu, Xinlei Zhang, Xiruo Jiang, Jun Z
 
 ## World Model
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/DroneWAM.png' alt="DroneWAM framework and DroneNav-6D dataset" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DroneWAM: Efficient World Action Model for Drone Visual Navigation](https://arxiv.org/abs/2609.33148)
+
+**Liang Yao**, Fan Liu, Hongbo Lu, Wei Xu, Jianyu Jiang, Yijun Shen, Chuanyi Zhang, Pai Peng.
+
+[[**Code**]](https://github.com/1e12Leon/DroneWAM) (coming soon)
+
+  - We propose DroneWAM, an efficient world-action model for drone visual navigation that combines JEPA-based latent prediction, compact visual tokens, and adaptive rollout, together with DroneNav-6D for 6-DoF aerial navigation.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/DAWN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
