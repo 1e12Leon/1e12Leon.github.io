@@ -29,6 +29,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - *2026.10*: I have been selected for the China Association for Science and Technology’s special program for the cultivation of young scientific and technological talent (Ph.D. student track) [中国科协青年科技人才培育工程博士生专项计划]. 🎉🎉
 - *2026.10*: I received the Hohai Shaohua Future Scholarship. 🎉🎉
 - *2026.10*: I received the National Scholarship for Postgraduate Students. 🎉🎉
+- *2026.09*: We introduce [DroneWAM](https://arxiv.org/abs/2609.33148), an efficient world-action model for drone visual navigation with compact latent prediction and adaptive rollout, together with the DroneNav-6D dataset.
 - *2026.09*: I was invited to attend the [China Graphics Conference Incentive Program Forum](https://www.cgn.net.cn/cms/show.action?code=publish_ff8080819a7b4430019c264458bc057c&siteid=100000&newsid=b75d21a9f74d40e4bcf16754cf9b3c12&channelid=0000000383) and give an oral presentation. 🎉🎉
 - *2026.09*: I earned the Excellent Master’s Thesis Incentive Program of the China Graphics Society (中国图学学会优秀硕士学位论文激励计划). 🎉🎉
 - *2026.08*: We introduce [RISE](https://huggingface.co/papers/2608.20430), an adaptive imagination framework for World Action Models (WAMs) in autonomous driving.
