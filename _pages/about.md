@@ -241,6 +241,8 @@ Hongbo Lu\*, **Liang Yao**\*, Chenghao He\*, Hao Han\*, Fan Liu, Wenlong Liao, T
 
 
 ## 📃 Others 
+- [RemoteEvolver: Expanding Earth Observation Capabilities through Agent Harness Evolution](https://arxiv.org/pdf/2611.27110v1).  *In arXiv2026*. Shengxiang Xu\*, **Liang Yao**\*, Shuyi Chen, Yishu Wang, Shimin Di, Fan Liu, Bishun Yao, Hanghui Guo, Xinyu Liu, Chengye Liang, Yuyu Luo, Min-Ling Zhan.
+
 - [RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation](https://arxiv.org/abs/2604.17243).  *In arXiv2026*. Rui Min\*, **Liang Yao**\*, Shiyu Miao\*, Shengxiang Xu, Yuxuan Liu, Chuanyi Zhang, Shimin Di, Fan Liu. [[减论]](https://mp.weixin.qq.com/s/zXHmvwiDcNUEyBxEVHPQpg) [[地球洞察]](https://mp.weixin.qq.com/s/3Ug4Trw5UUAKcg2G1KPfjg)
 
 - [RemoteTrimmer: Adaptive Structural Pruning for Remote Sensing Image Classification](https://ieeexplore.ieee.org/abstract/document/10890085). *In IEEE ICASSP2025*. Guangwenjie Zou\*, **Liang Yao**\*, Fan Liu, Chuanyi Zhang, Xin Li, Ning Chen, Shengxiang Xu, Jun Zhou.
@@ -250,8 +252,6 @@ Hongbo Lu\*, **Liang Yao**\*, Chenghao He\*, Hao Han\*, Fan Liu, Wenlong Liao, T
 - [AerialFace: A Light Weight Framework for Unmanned Aerial Vehicle Face Recognition](https://ieeexplore.ieee.org/abstract/document/10582027/). (Highlight) *In IEEE FG2024*. Zhiquan Ou\*, **Liang Yao**\*, Ting Wu, Fan Liu.
 
 - [非空间配准的多模态目标检测决策融合策略](https://www.cjig.cn/zh/article/doi/10.11834/jig.250326/). *中国图象图形学报*. 张荣🌹，**姚亮**，张奕欣，王翌骏，张传一，刘凡.
-
-- [Heterogeneous Knowledge Distillation Fostered Pre-training for Remote Sensing Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0031320326009957). *In Pattern Recognition*. Fan Liu, Xinlei Zhang, Chuanyi Zhang, **Liang Yao**, Fan Cheng, Xinyuan Li, Xiaohan Yu.
 
 - [Chain-of-Talkers (CoTalk): Fast Human Annotation of Dense Image Captions](https://arxiv.org/pdf/2505.22627). *In EMNLP2025*. Yijun Shen, Delong Chen, Fan Liu, Xingyu Wang, Chuanyi Zhang, **Liang Yao**, Yuhui Zheng.
 
