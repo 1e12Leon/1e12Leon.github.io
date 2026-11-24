@@ -26,6 +26,7 @@ Liang Yao (姚亮) is from Jiuquan City (酒泉市), Gansu Province (甘肃省),
 - **World (Action) Model**
 
 # 🔥 News
+- *2026.11*: "Towards Controllable Virtual UAV Benchmark Generation" is accepted by IEEE TGRS. &nbsp;🎉🎉
 - *2026.11*: I received the Hohai Shaohua Future Scholarship. 🎉🎉
 - *2026.10*: I have been selected for the China Association for Science and Technology’s special program for the cultivation of young scientific and technological talent (Ph.D. student track) [中国科协青年科技人才培育工程博士生专项计划]. 🎉🎉
 - *2026.10*: I received the National Scholarship for Postgraduate Students. 🎉🎉
